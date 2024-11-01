@@ -1,7 +1,7 @@
 # maze-solver
 A visual interface (Tkinter) that draws, solves, and animates a maze in Python.
 
-![Maze Generation and Solution](maze.git)
+![Maze Generation and Solution](maze.gif)
 
 ## Features
 
@@ -19,6 +19,11 @@ A visual interface (Tkinter) that draws, solves, and animates a maze in Python.
 - Python 3
 - Tkinter
 I've found that the installing the tk-dev or python-tk packages are usually the easiest way to install and link it to your Python version.
+
+You use Arch, btw:
+```
+sudo pacman -S tk
+```
 
 On Ubuntu (Linux), run:
 ```
