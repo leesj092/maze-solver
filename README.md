@@ -17,7 +17,7 @@ A visual interface (Tkinter) that draws, solves, and animates a maze in Python.
 
 ## Requirements
 - Python 3
-- Tkinter
+- Tkinter:
 I've found that the installing the tk-dev or python-tk packages are usually the easiest way to install and link it to your Python version.
 
 You use Arch, btw:
